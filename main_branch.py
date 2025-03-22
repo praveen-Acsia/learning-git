@@ -1,4 +1,4 @@
-import os
+
 # code comment
 print("hello world")
 print("something else")
